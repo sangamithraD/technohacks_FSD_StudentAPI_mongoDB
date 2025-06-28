@@ -50,5 +50,6 @@ http://localhost:3000/
 - `DELETE /api/students/:id` — Delete a student
   
 ### ✅ Developed by [Sangamithra D](https://github.com/sangamithraD)
+Linkedin Post : https://www.linkedin.com/posts/sangamithra-d-8a4092301_task2-fullstackdevelopment-mernstack-activity-7344732724160528384-PoPr?utm_source=share&utm_medium=member_android&rcm=ACoAAE0Te3wBDPpSmrzX8PUb8qeOgFjMumrLltk
 
 
